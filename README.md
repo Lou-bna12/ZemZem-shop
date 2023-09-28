@@ -17,7 +17,7 @@
     2. create route for hom screen
     3. create router for product screen 
 
-7. Create Node.js Server 
+7. Créer Node.js Server 
     1. run npm init in root folder 
     2. update package.json set type : module 
     3. Add .js to imports 
@@ -38,7 +38,13 @@
     4. use effect hook  
     5. user reducer hook   
 
-9. Manage State by Reducer Hook 
+9. Gérer l'état par Reducer Hook 
     1. define reducer
     2. update fetch data
     3. get state from usReducer
+
+10. Ajouter Bootstrap UI Framework
+    1. npm install react-bootstrap bootstrap 
+    2. update App.js    
+
+
