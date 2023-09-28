@@ -1,8 +1,8 @@
 const data = {
     products: [
         {
-            name: 'Nike Slim Tshirt',
-            slug: 'nike-slim-tshirt',
+            name: 'Ensemble de sport femme',
+            slug: 'Ensemble de sport femme',
             category: 'T-shirt',
             image:'/images/p1.jpg',
             price: 120,
@@ -10,47 +10,47 @@ const data = {
             brand: 'Nike',
             rating: 4.5,
             numReviews: 20,
-            description: 't-shirt de haute qualité',
+            description: 'Ensemble de haute qualité',
 
         },
 
         {
-            name: 'Adidas Fit T-Shirt',
-            slug: 'adidas-fit-t-shirt',
+            name: 'Un gilet imprimé',
+            slug: 'Un gilet imprimé',
             category: 'T-shirt',
             image: '/images/p2.jpg',
             price: 50,
             countInStock: 220,
-            brand: 'Adidas',
+            brand: 'Mongo',
             rating: 4.0,
             numReviews: 10,
-            description: 't-shirt de haute qualité',
+            description: 'Gilet de haute qualité',
 
         },
 
         {
-            name: 'Nike Slim Pant',
-            slug: 'nike-slim-pant',
+            name: 'Blazer femme',
+            slug: 'Blazer femme',
             category: 'Pantalons',
             image: '/images/p3.jpg',
-            price: 65,
+            price: 90,
             countInStock: 150,
-            brand: 'Nike',
+            brand: 'Zara',
             rating: 4.5,
             numReviews: 14,
-            description: 'pontalon de haute qualité',
+            description: 'Blazer de haute qualité',
         },
         {
-            name: 'Adidas Fit Pant',
-            slug: 'adidas-fit-pant',
+            name: 'Robe Rose Poudré',
+            slug: 'Robe Rose Poudré',
             category: 'Pantalons',
             image: '/images/p4.jpg',
             price: 65,
             countInStock: 500,
-            brand: 'Puma',
+            brand: 'Massimo dutti',
             rating: 4.5,
             numReviews: 10,
-            description: 'pontalon de haute qualité',
+            description: 'Robe de haute qualité',
         }    
     ],
 };
