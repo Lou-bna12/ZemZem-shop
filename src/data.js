@@ -20,7 +20,7 @@ const data = {
             category: 'T-shirt',
             image: '/images/p2.jpg',
             price: 50,
-            countInStock: 220,
+            countInStock: 0,
             brand: 'Mongo',
             rating: 4.0,
             numReviews: 10,

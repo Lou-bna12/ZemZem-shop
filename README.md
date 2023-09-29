@@ -52,4 +52,8 @@
     2. créer Produits composant
     3. utliser rating composant dans le produist composant
 
+12. Créer l'écran des détails du produit
+    1. récupérer le produit dans le backend
+    2. créer 3 colonnes pour l'image, l'info et l'action
+
 
